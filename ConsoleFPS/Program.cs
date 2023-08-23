@@ -276,7 +276,7 @@ namespace ConsoleFPS
         }
 
         /// <summary>
-        /// Handles user input for A=>turn left, D=>turn right, W=>move forward, S=>move backward, Q=>strafe left, E=>strafe left.
+        /// Handles user input for A=>turn left, D=>turn right, W=>move forward, S=>move backward, Q=>strafe left, E=>strafe right.
         /// Use for running on main thread 
         /// </summary>
         private static void UserInput()
